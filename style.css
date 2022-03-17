@@ -7,16 +7,16 @@
 
 @font-face {
 	font-family: 'robotoregular';
-	src:url('Fonts/roboto-regularFQ.woff2') format('woff2'),
-    	url('Fonts/roboto-regularFQ.woff') format('woff'),
-		url('Fonts/roboto-regularFQ.ttf') format('truetype');
+	src:url('./Fonts/roboto-regularFQ.woff2') format('woff2'),
+    	url('./Fonts/roboto-regularFQ.woff') format('woff'),
+		url('./Fonts/roboto-regularFQ.ttf') format('truetype');
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
 	font-family: 'roboto-bold';
-	src: url('Fonts/roboto-bold.ttf') format('truetype');	
+	src: url('./Fonts/roboto-bold.ttf') format('truetype');	
 }
 
 
@@ -138,7 +138,7 @@ nav {
 	width: 50%;
 	height: 50%;
 	margin-top: 25px;
-	margin-right: : 60px;
+	margin-right: 60px;
 }
 
 nav ul {
@@ -1163,7 +1163,7 @@ nav a:hover {
 		width: 70%;
 		height: 50%;
 		margin-top: 25px;
-		margin-right: : 60px;
+		margin-right: 60px;
 	}
 
 	nav ul {
