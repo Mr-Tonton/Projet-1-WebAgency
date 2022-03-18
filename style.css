@@ -7,9 +7,9 @@
 
 @font-face {
 	font-family: 'robotoregular';
-	src:url('./Fonts/roboto-regularFQ.woff2') format('woff2'),
-    	url('./Fonts/roboto-regularFQ.woff') format('woff'),
-		url('./Fonts/roboto-regularFQ.ttf') format('truetype');
+	src:url('./fonts/roboto-regularFQ.woff2') format('woff2'),
+    	url('./fonts/roboto-regularFQ.woff') format('woff'),
+		url('./fonts/roboto-regularFQ.ttf') format('truetype');
     font-style: normal;
     font-weight: normal;
 }
